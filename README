@@ -1,0 +1,3 @@
+This repository provides implementations for several common heap operations using Python's heapq library. 
+These operations include finding the minimum element in an array, finding the k smallest elements, merging
+two sorted arrays,finding the k largest elements, and implementing a basic heap sort.
